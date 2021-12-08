@@ -1,6 +1,8 @@
 .main-header {
-    color: black; text-align: center;
-}
-h1 {
-    text-align: center;
+    color: rgb(247, 242, 242); text-align: center;font-size: 44px;
+background-image:url(./recipes/pics/header-background.jpg) ;}
+body{ background-image: url(./recipes/pics/lizardking.jpg) ; background-repeat: no-repeat;
+    background-position: top left;
+background-attachment: scroll;
+
 }
