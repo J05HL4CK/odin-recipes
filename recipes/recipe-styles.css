@@ -1,0 +1,16 @@
+.main-header {
+    color: rgb(60, 114, 7);
+    font-size: 44px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.html { 
+    height: fit-content;
+}
+.body {
+    background-image: url(./pics/recipes-background.jpg);
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    
+}
