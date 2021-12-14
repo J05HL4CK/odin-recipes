@@ -30,8 +30,8 @@ html {
     width: 135px;
     padding: 15px;
     box-sizing: border-box;
-    border: 1px grey;
-    background-color: honeydew;
+    border: 1px rgb(68, 66, 66);
+    background-color: rgba(109, 190, 109, 0.493) ;
     margin: auto;
     
 
