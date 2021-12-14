@@ -2,10 +2,11 @@
 /*start main header*/
 .main-header {
 
-    color: rgb(60, 114, 7);
+    color: rgb(87, 134, 40);
     font-size: 44px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: indianred 2px;
 }
 /*end main header*/
 body {
@@ -20,13 +21,32 @@ body {
 }
 /*start product-image*/
 .product-image {
-    display: block;
-    float: none;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;   
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   text-align: center;
+   
+   
 
-}/*end product-image*/
+}
+.description {
+    text-align: center;
+    font-weight: normal;
+    color: darkslategray;
+
+}
+.ingredients {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+
+
+
+
+
 
 
 
