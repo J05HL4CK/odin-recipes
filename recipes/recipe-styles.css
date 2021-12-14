@@ -1,14 +1,14 @@
 
-/*start main header*/
+
 .main-header {
 
-    color: rgb(87, 134, 40);
+    color: darkslategray;
     font-size: 44px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-shadow: indianred 2px;
 }
-/*end main header*/
+
 body {
 
 /*start background image*/    
@@ -19,12 +19,14 @@ body {
 /*end background image*/
 
 }
-/*start product-image*/
+
 .product-image {
    margin-left: auto;
    margin-right: auto;
    width: 50%;
    text-align: center;
+   
+
    
    
 
@@ -33,6 +35,7 @@ body {
     text-align: center;
     font-weight: normal;
     color: darkslategray;
+    
 
 }
 .ingredients {
@@ -40,6 +43,12 @@ body {
     font-style: italic;
     font-weight: bold;
     color: darkslategray;
+}
+.method {
+    text-align: center;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(16, 20, 20);
 }
 
 
