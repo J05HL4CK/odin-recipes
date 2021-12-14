@@ -24,13 +24,9 @@ body {
    margin-left: auto;
    margin-right: auto;
    width: 50%;
-   text-align: center;
-   
+   text-align: center;}   
 
-   
-   
 
-}
 .description {
     text-align: center;
     font-weight: normal;
@@ -49,6 +45,26 @@ body {
     font-weight: normal;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(16, 20, 20);
+}
+.button{ 
+    width: 150px;
+    padding: 10px;
+    background: lightblue;
+    color: rgb(31, 34, 37);
+    font-weight: bold;
+    box-shadow: lightslategray inset;
+    float: right;
+    margin: auto;
+    cursor: pointer;
+
+}
+.button:active {
+    box-shadow: inset 0px 0px 4px saddlebrown;
+
+}
+.button--primary {
+    color: seagreen;
+    background: seashell;
 }
 
 
