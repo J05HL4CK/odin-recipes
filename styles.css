@@ -32,6 +32,8 @@ html {
     box-sizing: border-box;
     border: 1px grey;
     background-color: honeydew;
+    margin: auto;
+    
 
 }  
 .recipe__photo {
