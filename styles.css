@@ -21,8 +21,12 @@ html {
     color: bisque;
     font-size: xx-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: .2s;
+    text-align: center;
 }
-
+li:hover{
+    transform: scale(1.5);
+}
 .href, a, a:visited {
     color: blanchedalmond;
     }
@@ -33,6 +37,9 @@ html {
     border: 1px rgb(68, 66, 66);
     background-color: rgba(109, 190, 109, 0.493) ;
     margin: auto;
+    flex: content;
+    transition: .2s;
+    
     
 
 }  
@@ -62,4 +69,8 @@ html {
 }
 .button:active {
     box-shadow: inset 8px rgb(223, 12, 12);
+}
+.recipe:hover {
+    transform: scale(1.5);
+    
 }
